@@ -1,17 +1,8 @@
-# prototype_02_app
+# 트렌드 단어장
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# trend_vocabulary
+- 분야별 또는 추천하는 영단어를 제공하여 학습
+- 매일 바뀌는 추천 단어
+- 데이터 수집, 추출을 통해 분야별 단어 제공
+- SQLite를 통해 학습 리스트 제공
+- Firebase를 통한 로그인 구현
+- AWS 서버 구축을 통해 수집한 단어를 상황에 맞게 제공
