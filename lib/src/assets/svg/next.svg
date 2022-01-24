@@ -1,0 +1,39 @@
+<svg width="298" height="60" viewBox="0 0 298 60" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>._531 {
+	animation: 1.5s linear 0.5s 1 normal forwards running _531;
+		fill: rgba(0,0,0,0);
+}
+@keyframes _531 {
+	0% {
+		fill: rgba(0,0,0,0);
+	}
+	33.33% {
+		fill: rgba(0,0,0,0);
+	}
+	100% {
+		fill: rgba(0,0,0,1);
+	}
+}._773 {
+	animation: 1.5s linear 0s 1 normal forwards running _773;
+		fill: rgba(0,0,0,0);
+}
+@keyframes _773 {
+	0% {
+		fill: rgba(0,0,0,0);
+	}
+	66.67% {
+		fill: rgba(0,0,0,1);
+	}
+	100% {
+		fill: rgba(0,0,0,1);
+	}
+}
+</style>
+<g clip-path="url(#clip_0_652)" width="298" height="60" data-name="다음">
+	<path d="M268 0H30C13.4315 0 0 13.4315 0 30C0 46.5685 13.4315 60 30 60H268C284.569 60 298 46.5685 298 30C298 13.4315 284.569 0 268 0Z" fill="white" data-name="Vector"/>
+	<path d="M0.589996 10.59L5.17 6L0.589996 1.41L2 0L8 6L2 12L0.589996 10.59Z" fill="black" data-name=">" class="_531" transform="translate(168.59 24)"/>
+	<path d="M14.09 0.888V23.184H17.306V0.888H14.09ZM16.586 9.12V11.736H20.522V9.12H16.586ZM0.746002 15.192V17.832H2.618C6.482 17.832 9.53 17.736 12.89 17.136L12.578 14.496C9.314 15.072 6.362 15.192 2.618 15.192H0.746002ZM0.746002 2.952V16.464H3.914V5.52H11.114V2.952H0.746002ZM32.016 1.32C27.12 1.32 23.976 2.976 23.976 5.664C23.976 8.352 27.12 9.984 32.016 9.984C36.912 9.984 40.056 8.352 40.056 5.664C40.056 2.976 36.912 1.32 32.016 1.32ZM32.016 3.792C35.04 3.792 36.768 4.392 36.768 5.664C36.768 6.912 35.04 7.536 32.016 7.536C28.968 7.536 27.264 6.912 27.264 5.664C27.264 4.392 28.968 3.792 32.016 3.792ZM24.288 15.312V22.896H39.648V15.312H24.288ZM36.528 17.832V20.376H27.432V17.832H36.528ZM21.96 11.256V13.776H42.048V11.256H21.96Z" fill="black" data-name="다음" class="_773" transform="translate(115.75 18.89)"/>
+</g>
+<defs><clipPath id="clip_0_652"><rect width="298" height="60"/></clipPath>
+</defs>
+</svg>
